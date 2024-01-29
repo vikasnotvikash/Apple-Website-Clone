@@ -13,7 +13,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "65vh"
     c.style.display = "block"
@@ -29,7 +29,7 @@ a.addEventListener("mouseenter",function(){
     k.style.display = "none"
     i.style.display = "none"
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
 
 })
@@ -50,7 +50,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "65vh"
     c.style.display = "none"
@@ -67,7 +67,7 @@ a.addEventListener("mouseenter",function(){
     i.style.display = "none"
 
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
 })
 
@@ -87,7 +87,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "60vh"
     c.style.display = "none"
@@ -102,9 +102,9 @@ a.addEventListener("mouseenter",function(){
     k.style.display = "none"
     i.style.display = "none"
     j.style.display = "none"
-    
+
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
 
 })
@@ -125,7 +125,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "55vh"
     c.style.display = "none"
@@ -142,9 +142,9 @@ a.addEventListener("mouseenter",function(){
     h.style.display = "none"
 
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -163,7 +163,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "55vh"
     c.style.display = "none"
@@ -180,9 +180,9 @@ a.addEventListener("mouseenter",function(){
     k.style.display = "none"
 
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -201,7 +201,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "38vh"
     c.style.display = "none"
@@ -217,9 +217,9 @@ a.addEventListener("mouseenter",function(){
     h.style.display = "block"
     h.style.display = "flex"
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -238,7 +238,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "50vh"
     c.style.display = "none"
@@ -254,9 +254,9 @@ a.addEventListener("mouseenter",function(){
     i.style.display = "block"
     i.style.display = "flex"
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -275,7 +275,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "65vh"
     c.style.display = "none"
@@ -291,9 +291,9 @@ a.addEventListener("mouseenter",function(){
     j.style.display = "block"
     j.style.display = "flex"
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -312,7 +312,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
     b.style.top = "0%"
     b.style.height = "73vh"
     c.style.display = "none"
@@ -328,9 +328,9 @@ a.addEventListener("mouseenter",function(){
     k.style.display = "block"
     k.style.display = "flex"
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -350,7 +350,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
 
     b.style.top = "0%"
     b.style.height = "65vh"
@@ -367,9 +367,9 @@ a.addEventListener("mouseenter",function(){
     l.style.display = "block"
     l.style.display = "flex"
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -389,7 +389,7 @@ var j = document.querySelector(".items .item8")
 var k = document.querySelector(".items .item9")
 var l = document.querySelector(".items .item10")
 var m = document.querySelector(".items .item11")
-a.addEventListener("mouseenter",function(){
+a.addEventListener("mouseenter", function () {
 
     b.style.top = "0%"
     b.style.height = "65vh"
@@ -406,9 +406,9 @@ a.addEventListener("mouseenter",function(){
     m.style.display = "block"
     m.style.display = "flex"
 })
-a.addEventListener("mouseleave",function(){
+a.addEventListener("mouseleave", function () {
     b.style.top = "-100%"
-    
+
 })
 
 
@@ -417,13 +417,11 @@ a.addEventListener("mouseleave",function(){
 
 var pp = document.querySelectorAll("#navbar a")
 var gg = document.querySelector("#navbar")
-pp.forEach(function(e)
-{
-    e.addEventListener("mouseenter",function(){
+pp.forEach(function (e) {
+    e.addEventListener("mouseenter", function () {
         gg.style.backgroundColor = "black"
     })
-    e.addEventListener("mouseleave",function()
-    {
+    e.addEventListener("mouseleave", function () {
         gg.style.backgroundColor = "#434344"
     })
 })
@@ -432,18 +430,38 @@ pp.forEach(function(e)
 // Swiper part
 
 
-    var swiper = new    Swiper(".mySwiper", {
-        slidesPerView: "auto",
-        centeredSlides: true,
-        spaceBetween: 10,
-        pagination: {
-          el: ".swiper-pagination",
-          clickable: true,
-        },
-          autoplay: {
-      delay:5000,
-      disableOnInteraction:false,
+var swiper = new Swiper(".mySwiper", {
+    slidesPerView: "auto",
+    centeredSlides: true,
+    spaceBetween: 10,
+    pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
     },
-      });
+    autoplay: {
+        delay: 5000,
+        disableOnInteraction: false,
+    },
+});
+
+
+var ab = document.querySelector(".hamburger")
+var bb = document.querySelector("#last-itallic")
+var ac = document.querySelector("#navbar")
+var abc = document.querySelector(".hamburger ul li")
+var flag = 0
+bb.addEventListener("click", function () {
+    if (flag == 0) {
+        ab.style.top = "0%"
+        ac.style.backgroundColor = "black"
+        abc.style.opacity = 1
+        flag = 1
+    } else {
+        ab.style.top = "-1000%"
+        ac.style.backgroundColor = "#434443"
+        abc.style.opacity = 0.5
+        flag = 0
+    }
+})
 
 

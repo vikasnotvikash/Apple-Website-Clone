@@ -22,8 +22,8 @@ body {
     height: 6vh;
     width: 100%;
     background-color: #434443;
-    position: relative;
-    z-index: 2;
+    position:relative;
+    z-index: 2000;
     transition: all ease 0.5s;
 }
 
@@ -776,6 +776,31 @@ body {
     font-weight: 500;
     font-size: 1.8vmin;
 }
+
+.hamburger
+{
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    background-color: #000000;
+    top:-1000%;
+    z-index: 100;
+    color: white;
+    transition: all ease 1.5s;
+    padding: 10vmax 0 3vmax 6vmax;
+}
+.hamburger li 
+{
+    font-size: 4vmax;
+    margin-top: 1vmax;
+    list-style: none;
+    font-weight:600;
+}
+.hamburger li:hover
+{
+    color: #434443;
+}
+
 
 
 
